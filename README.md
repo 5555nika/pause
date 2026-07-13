@@ -1,4 +1,4 @@
-A simple video background project witha centred pause button.
+A simple video background project with a centred pause button.
 
 
 ## How to Run
